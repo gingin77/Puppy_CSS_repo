@@ -54,3 +54,24 @@ ul{
   border-bottom-style: solid;
   border-bottom-color: #dddddd
 }
+
+/*
+I'm running out of time.... don't feel like tackling the Table section in last 20 minuts... try the styling for the form section
+*/
+
+form {
+  background-color: #eee;
+  padding: 15px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+form div{
+  padding: 10px;
+}
+.name{
+  background-color: #ff8523;
+  /*padding: 9px; Since I added the form div line above, I don't really need this. However, I need to solve how to give some vertical padding*/
+  border-radius: 5px;
+  color: white;
+}
