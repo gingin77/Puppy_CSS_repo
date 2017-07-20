@@ -48,7 +48,7 @@ ul{
   font-weight: bold;
 }
 
-.with_lower_border{
+section {
   padding-bottom: 20px;
   border-style: none;
   border-bottom-style: solid;
